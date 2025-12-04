@@ -72,8 +72,8 @@ Realização: Utilizei SQL e Teste T para fornecer dados concretos que justifica
 
 🤝 Conecte-se Comigo
 
-LinkedIn
-[Seu Link do LinkedIn aqui]
+LinkedIn:
+https://www.linkedin.com/in/guilherme-mariz-925238149/
 
 Email:
 gnajar0609@gmail.com
