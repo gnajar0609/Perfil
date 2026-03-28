@@ -1,82 +1,57 @@
-Olá! Eu sou Guilherme Najar , Profissional de Dados em Busca de Oportunidade Júnior 👋
+# Hi, I'm Guilherme Mariz 👋 | Data Analyst & Automation Specialist
 
-Sou um profissional em fase de transição para a área de Dados, com foco em transformar aprendizado em resultados de negócio tangíveis. Atuo com um ciclo de análise end-to-end, utilizando proficiência em SQL e Python para:
+I am a results-oriented professional transitioning into the Data field, focused on transforming complex information into tangible business value. With a solid 10-year background in technical production and project management (**UFRJ**), I now apply an **end-to-end analytical cycle** using Python and SQL to:
 
-Aplicar Análise Estatística (Teste T, Correlação) para validar hipóteses e mitigar riscos em decisões.
+* **Apply Statistical Analysis:** Utilizing T-tests and correlation to validate hypotheses and mitigate risks in decision-making.
+* **Data Engineering & Cleaning:** Handling and structuring complex data from multiple sources to build robust analytical frameworks.
+* **BI Deployment:** Developing predictive models and deploying interactive solutions (**Streamlit**) to democratize data access across organizations.
 
-Manipular e Limpar dados complexos de múltiplas fontes para estruturar análises robustas.
+🚀 **Currently seeking Junior Data Analyst or Internship roles** where I can contribute to performance optimization and revenue-impacting insights.
 
-Desenvolver modelos básicos de Regressão e deployar soluções de BI (Streamlit) para democratizar dados.
+---
 
-Busco uma posição de Estágio ou Analista Júnior para contribuir ativamente na otimização de performance e na construção de análises que impactam a receita.
+### ⚙️ Core Skills & Toolbox
 
-⚙️ Habilidades e Ferramentas Chave
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Languages** | Python (Advanced Scripting), SQL (PostgreSQL, MySQL) |
+| **Analysis & Stats** | Hypothesis Testing (T-test), Variance Analysis, Pandas, NumPy |
+| **Visualization/BI** | Interactive Dashboards, Web Deployment (Streamlit, Matplotlib, Seaborn) |
+| **Modeling** | Linear Regression, ML-based ETA Optimization |
+| **Methodology** | Exploratory Data Analysis (EDA), Data Wrangling, ETL Processes |
 
-Essa seção demonstra as tecnologias com as quais eu atuo em meus projetos:
+---
 
-Categoria
-
-Ações e Ferramentas
-
-Linguagens
-
-Programar em Python, Consultar com SQL (PostgreSQL, MySQL)
-
-Análise e Estatística
-
-Validar Hipóteses (Teste T), Analisar Variância e Média (Pandas, NumPy)
-
-Visualização/BI
-
-Criar Dashboards e Implantar Soluções Web (Streamlit, Matplotlib, Seaborn)
-
-Modelagem Inicial
-
-Construir modelos de Regressão Linear, Otimizar ETA com ML
-
-Metodologia
-
-Conduzir Análise Exploratória (EDA), Tratar e Estruturar Dados
-
-💡 Destaques do Portfólio (Realizações e Valor Entregue)
-
-Os projetos a seguir demonstram minha capacidade de converter dados em ações estratégicas:
-
-📈 Análise de Receita e Otimização de Negócios
-
-[Megaline: Teste de Hipóteses para Otimização de Receita (Telecom)](Link para o repositório Megaline)
-
-Ação: Determinei estatisticamente o plano de serviço mais rentável.
-
-Realização: Entreguei uma recomendação de ajuste no orçamento de publicidade validada por Teste T de Student.
-
-[Ice Games: Análise de Vendas Globais e Estratégia de Marketing 2017](Link para o repositório Ice Games)
-
-Ação: Analisei a correlação de avaliações e vendas em quatro regiões.
-
-Realização: Defini as plataformas e gêneros prioritários, orientando uma campanha de marketing segmentada para 2017.
-
-🚕 Logística e Modelagem Preditiva
-
-[Zuber ML: Modelo de Regressão para Previsão de ETA e Logística](Link para o repositório Zuber ML)
-
-Ação: Construí e implantei um modelo básico de Regressão.
-
-Realização: Otimizei o Tempo Estimado de Chegada (ETA) para aprimorar a experiência do cliente e a eficiência logística.
-
-[Zuber: Impacto do Clima em Viagens — SQL & Teste Estatístico (Chicago)](Link para o repositório Zuber SQL/Estatística)
-
-Ação: Comprovei o impacto estatístico de fatores externos (clima) na duração das viagens.
-
-Realização: Utilizei SQL e Teste T para fornecer dados concretos que justificam a precificação dinâmica.
-
-🤝 Conecte-se Comigo
-
-LinkedIn:
-https://www.linkedin.com/in/guilherme-mariz-925238149/
-
-Email:
-gnajar0609@gmail.com
+### 💡 Portfolio Highlights (Action & Value Delivered)
 
 
-Disponível Imediatamente para Estágio ou Posições Júnior. Estou pronto para aprender e gerar valor em um ambiente dinâmico.
+#### 🚗 Featured BI Product: Interactive Market Dashboard
+* [**Market Insight: Interactive Car Sales Dashboard (Streamlit)**](https://github.com/guilhermemariz/NOME_DO_REPO_AQUI)
+    * **Action:** Developed a full-stack BI tool using **Python** and **Streamlit** to analyze used car market trends.
+    * **Impact:** Created a live, interactive interface that allows users to filter by price, mileage, and vehicle type, transforming raw data into actionable business intelligence.
+    * **Live Demo:** [**Check the Interactive Dashboard here**](https://projeto5-streamlit.onrender.com)
+
+#### 📈 Revenue Analysis & Business Optimization
+* [**Megaline: Revenue Optimization through Hypothesis Testing**]
+    * **Action:** Statistically determined the most profitable service plan using Python.
+    * **Impact:** Delivered budget allocation recommendations validated by Student’s T-test.
+* [**Ice Games: Global Sales Analysis & 2017 Marketing Strategy**]
+    * **Action:** Analyzed correlation between user reviews and sales across four global regions.
+    * **Impact:** Defined priority platforms and genres, guiding a data-backed marketing campaign.
+
+#### 🚕 Logistics & Predictive Modeling
+* [**Zuber ML: Regression Model for ETA & Logistics**]
+    * **Action:** Built and deployed a regression model to predict Estimated Time of Arrival.
+    * **Impact:** Optimized logistics efficiency and improved user experience through predictive accuracy.
+* [**Zuber SQL: Impact of Weather on Urban Mobility**]
+    * **Action:** Proved the statistical impact of external factors (weather) on trip duration using SQL.
+    * **Impact:** Provided concrete data to justify dynamic pricing strategies during adverse conditions.
+
+---
+
+### 🤝 Connect with me
+* **LinkedIn:** [linkedin.com/in/guilherme-mariz-925238149/](https://www.linkedin.com/in/guilherme-mariz-925238149/)
+* **Email:** gnajar0609@gmail.com
+* **Status:** Available for Junior/Internship positions and Freelance projects.
+
+*"Merging 10 years of creative problem-solving with the technical precision of Data Science."*
